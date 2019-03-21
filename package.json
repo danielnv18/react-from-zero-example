@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "repository": "git@github.com:danielnv18/react-from-zero-example.git",
   "author": "Daniel Noyola <danielnv18@gmail.com>",
-	"license": "MIT",
-	"scripts": {
+  "license": "MIT",
+  "scripts": {
     "start": "webpack --mode development",
     "build": "webpack --mode production"
+	},
+	"dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   },
   "devDependencies": {
     "webpack": "^4.29.6",
