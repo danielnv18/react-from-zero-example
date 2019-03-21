@@ -1,0 +1,8 @@
+{
+  "name": "react-from-zero-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danielnv18/react-from-zero-example.git",
+  "author": "Daniel Noyola <danielnv18@gmail.com>",
+  "license": "MIT"
+}
